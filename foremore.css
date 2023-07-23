@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#headingg{
+    text-align: center;
+    color: white;
+   padding: 40px;
+   font-size:50px;
+  }
+  body{
+    font-family: 'Great Vibes', cursive;
+    background-color: rgb(3, 7, 4);;
+
+
+}
+button{
+    background-color: white;
+    padding: 10px;
+    border-radius:25px ;
+    
+}
+.plant{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.description{
+    font-size: 20px;
+     color: white;
+    padding: 40px;
+}
+.image{
+
+    padding: 10px;}
+
+    .description h3{
+        margin-top: 50px;}
+
+        .description ul{
+            margin-top: 30px;
+            margin-left: 100px;}
+            
